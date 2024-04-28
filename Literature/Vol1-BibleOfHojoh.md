@@ -4,15 +4,24 @@
 
 ## 生词表
 
-Οδιού, η -ούς/-ούδος,-ούδα,-ούδι (阴第三变格)北条 [日：Hojou]
+Οδιού, ο,η -ούς/-ούδος,-ούδα,-ούδι (阳&阴第三变格)北条 [日：Hojou]
+
 Σίμβος, ο (阳第二变格)神武天皇 [日：Shimbu]
+
 Τουκιώμη, η (阴第一变格)月读 [日：Tsukiyomi]
+
 Λιβάβιας, ο -α,-αν (阳第一变格)白给人 [Aig: Livabhia]
+
 Κανάγαυα, η (阴第一变格)神奈川 [日: Kanagawa]
+
 Οδαυάρα, η (阴第一变格)小田原 [日: Odawara]
+
 Ιουνικλός, ο (阳第二变格)优衣库 [英: Uniqlo]
+
 Οτιαζυκαίος, ο (阳第一变格)茶泡饭 [日: Ochazuke]
+
 Νοδάς, το -άτος,-άτα,-άτι (中第三变格)野太刀 [日: Nodachi]
+
 
 ## 第一章
 
@@ -43,7 +52,7 @@ Hos logous toutous egeneto Libabias ho baptizon en tei eremoi baptisma metanoias
 
 1:5日 本 全 地 、 和 小 田 原 城 的 人 、 都 出 去 到 白 給 人 那 裡 、 承 認 他 們 的 罪 、 在 神 奈 川 裡 受 他 的 洗 。
 
-Και εξεπορεύετο προς αυτόν πάσα η Ιαπώνια χώρα και η Οδαυάρα πάντες, και εβαπτίζοντο υπ'αυτού εν τω Κανάγαυα ποταμω εξομολογούμενοι τας αμαρτίας αυτών.
+Και εξεπορεύετο προς αυτόν πάσα η Ιαπωνία χώρα και η Οδαυάρα πάντες, και εβαπτίζοντο υπ'αυτού εν τω Κανάγαυα ποταμω εξομολογούμενοι τας αμαρτίας αυτών.
 
 Kai exeporeveto pros auton pasa he Iaponia chora kai he Odavara pantes, kai ebaptizonto hyp'autou en toi Kanagavai potamoi exomologoumenoi tas hamartias auton.
 
@@ -68,15 +77,33 @@ Ego ebaptisa hymas hydati, autos de baptisei hymas en Nodati.
 
 1:9那 時 、 北 條 從 相 模 囯 的 比 比 多 神 社 來 、 在 神 奈 川 裡 受 了 白 給 人 的 洗 。
 
+Και εγένετο εν εκείναις ταις ημέραις ήλθεν Οδιού από Ίβιτα του Σούμου και εβαπτίσθη εις την Κανάγαυαν υπό Λιβάβια.
 
+Kai egeneto en ekeinais tais hemerais elthen Hodiou apo Hibita tou Soumou kai ebaptisthe eis ten Kanagavan hypo Libabia.
 
 1:10他 從 水 裡 一 上 來 、 就 看 見 天 裂 開 了 、 野 太 刀 彷 彿 鴿 子 、 降 在 他 身 上 。
 
+και ευθύς αναβαίνων εκ του ύδατος είδεν σχιζομένους τους ουρανούς και το Νοδάς ως περιστεράν καταβαίνον εις αυτόν.
+
+kai euthys anabainon ek tou hydatos eiden schizomenous tous ouranous kai to Nodas hos peristeran katabainon eis auton.
+
 1:11又 有 聲 音 從 天 上 來 說 、 你 是 我 的 愛 子 、 我 喜 悅 你 。
 
-1:12野 太 刀就 把 耶 穌 催 到 曠 野 裡 去 。
+και φωνή εγένετο εκ των ουρανών, Συ ει ο υιός μου ο αγαπητός, εν σοι *ευδοκηδόκησα*.
 
-1:13他 在 曠 野 四 十 天 受 撒 但 的 試 探 ． 並 與 野 獸 同 在 一 處 ．他 對 野 獸 佈 道， 野 獸 從 此 便 跟 隨 他 .
+kai phone egeneto ek ton ouranon, Sy ei o hyios mou ho agapetos, en soi heudokedokesa.
+
+（ευδόκησα为什么拼做δοκηδόκη呢，因为这个词恰好是“我喜悦”的意思，DOKIDOKI！）
+
+1:12野 太 刀就 把 他 催 到 曠 野 裡 去 。
+
+Και ευθύς το Νοδάς αυτόν εκβάλλει εις την έρημον.
+
+Kai euthys to Nodas auton ekballei eis ten eremon.
+
+1:13他 在 曠 野 四 十 天 受 撒 但 的 試 探 ． 並 與 野 獸 同 在 一 處 .他 對 野 獸 佈 道， 野 獸 從 此 便 跟 隨 他 .
+
+
 
 1:14、白 給 人下 監 以 後 、 北 條 來 到 小 田 原 、 宣 傳 神 的 福 音 、
 
